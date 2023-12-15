@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Something everyday**
 
-- 💬 Ask me about **react js**
+- 💬 Ask me about **Python and Django**
 
 
 
